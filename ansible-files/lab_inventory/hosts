@@ -1,0 +1,4 @@
+[web]
+node1 ansible_host=44.203.137.254
+node2 ansible_host=54.211.68.166
+node3 ansible_host=34.239.134.160
